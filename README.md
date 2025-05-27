@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋🏼, I'm Shivani Rajalakshmi 🙋🏻‍♀️</h1>
 <p align="center">
-  🌸 Aspiring Backend Developer | 💻 Java & web development | 🇮🇳 From India
+  🌸 Aspiring Fullstack Developer | 💻 Java & web development | 🇮🇳 From India
 </p>
 
 <p align="center">
