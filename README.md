@@ -65,6 +65,40 @@ Generates fair seating plans by department, exports PDFs, and sends SMS notifica
 
 ---
 
+<h2>📊 GitHub Stats</h2>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shivani-raj&theme=synthwave&show_icons=true&include_all_commits=true&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-raj&layout=compact&langs_count=8&card_width=300&theme=synthwave&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=shivani-raj&theme=synthwave&border=ff69b4&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=FFFFFF" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
+
+## ⚡ Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivani-raj&theme=synthwave&bg_color=20232a&hide_border=true&line=ff69b4&point=ffffff&area=true&area_color=ff69b4" alt="GitHub Activity Graph">
+</p>
+
+<h2 align="center">⚡My Trophies:</h2>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shivani-raj&theme=juicyfresh&no-frame=true&column=7&margin-w=15" alt="Shivani Raj" />
+  </a> 
+</p>
+
 <p align="center">
   💖 <i>“Building logic with love, one line of code at a time.”</i>
 </p>
