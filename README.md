@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋🏼, I'm Shivani Rajalakshmi 🙋🏻‍♀️</h1>
+
 <p align="center">
-  🌸 Aspiring Fullstack Developer | 💻 Java & web development | 🇮🇳 From India
+  🌸 Aspiring Fullstack Developer &nbsp;|&nbsp; 💻 Java & Web Dev Enthusiast &nbsp;|&nbsp; 🇮🇳 From India
 </p>
 
 <p align="center">
@@ -11,40 +12,59 @@
 
 ## 🙋🏻‍♀️ About Me
 
-Hello there! I'm **Shivani Rajalakshmi**, a passionate Computer Science student with a strong love for building backend systems and meaningful software solutions.
+Hi there! I'm **Shivani Rajalakshmi**, a Computer Science student who loves turning ideas into functional systems. I enjoy diving into backend tech, exploring frameworks, and contributing to real-world solutions.
 
-- 🔧 Currently working on: **Hall Seating Allocation System** and **Temple Darshan Booking App**
-- 📚 Exploring: **Spring Boot**, **gRPC**, and **AI integrations**
-- ✨ Interests: Clean code, system design, ethical tech, and automation
-- 🏆 Achievements: 3rd place in *CODR CRACKS*, Infosys Springboard Certified.
-
----
-
-## 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+- 🔧 Working on: `Hall Seating Allocation System` & `Temple Darshan Booking App`
+- 📚 Learning: `Spring Boot`, `gRPC`, and AI integrations
+- 🧠 Interests: System design, clean code, ethical tech, and automation
+- 🏆 Highlights: 3rd Place in **CODR CRACKS**, Infosys Springboard Certified
 
 ---
 
-## 🌟 Projects
+## 💻 Tech Stack
 
-- 🏛️ **Temple Darshan Booking System** — Traditional-themed cultural app for managing temple visits
-- 🏫 **Hall Seating Allocation System** — Ensures department-wise fair seating, auto-generates PDFs and sends SMS
+### 🚀 Languages & Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🛠️ Tools & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-00ADD8?style=for-the-badge&logo=grpc&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### ☁️ Deployment & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-## 📫 Let's Connect!
+## 🌟 Featured Projects
 
-- ✉️ Email: [vijayavarshini070@gmail.com]
-- 🔗 LinkedIn: [https://www.linkedin.com/in/shivani-karthikeyan-400508283/](#)
+### 🏛️ Temple Darshan Booking System  
+A culturally themed application for managing temple darshan slots with vibrant UI and traditional design.
+
+### 🏫 Hall Seating Allocation System  
+Generates fair seating plans by department, exports PDFs, and sends SMS notifications.
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:vijayavarshini070@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shivani-karthikeyan-400508283/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
 <p align="center">
-  💖 *“Building logic with love, one line of code at a time.”*
+  💖 <i>“Building logic with love, one line of code at a time.”</i>
 </p>
